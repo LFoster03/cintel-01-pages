@@ -10,7 +10,7 @@ Here's a clickable link to: [My favorite AI assistant](https://chatgpt.com/)
 
 Images look like links except with an exclamation directly in front
 
-![My Shiny Image](https://github.com/LFoster03/cintel-01-pages/blob/5a1709a6a0efc4aca34c7746146dce972b129c1e/penguinimage.jpg)
+![My Shiny Penguin Image](https://github.com/LFoster03/cintel-01-pages/blob/5a1709a6a0efc4aca34c7746146dce972b129c1e/penguinimage.jpg)
 
 ## Reminders
 
